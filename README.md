@@ -1,4 +1,4 @@
-<h1> Hi, I'm Itzel, an aspiring <a href="https://linkedin.com/in/itzel-tecuanapa-264b80148">IT Support Professional</a> ☺</h1>
+<h1> Hi, I'm Itzel, an <a href="https://linkedin.com/in/itzel-tecuanapa-264b80148">IT Support Professional</a>☺</h1>
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
@@ -10,7 +10,7 @@
   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/itzel-t/configure-ad)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/itzel-t/azure-network-protocols)
 
-<h2>📩Contact Me</h2>
+<h2>📲 Connect with me: </h2>
 
 [<img align="left" alt="Itzel| LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
