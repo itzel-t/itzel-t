@@ -1,16 +1,16 @@
-## Hi there 👋
+<h1> Hi, I'm Itzel, an <a href="https://linkedin.com/in/itzel-tecuanapa-264b80148">IT Support Professional</a>☺</h1>
 
-<!--
-**itzel-t/itzel-t** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h2>👨‍💻 Information Technology Projects:</h2>
 
-Here are some ideas to get you started:
+- <b>🧾 osTicket (Help Desk Ticketing System)</b>
+  - [osTicket: Prerequisites and Installation](https://github.com/itzel-t/osticket-prereqs)
+  - [osTicket: Post-Installation Configuration](https://github.com/itzel-t/osticket-post-install-configuration-)
+  - [osTicket: Ticket Lifecycle Examples](https://github.com/itzel-t/ticket-lifecycle)
+- <b>⊞ Microsoft Azure</b>
+  - [Configuring On-premises Active Directory within Azure VMs](https://github.com/itzel-t/configure-ad)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h2>📲 Connect with me: </h2>
+
+[<img align="left" alt="Itzel| LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+
+[linkedin]:https://www.linkedin.com/in/itzel-tecuanapa-264b80148
